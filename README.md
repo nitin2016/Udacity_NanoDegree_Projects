@@ -10,7 +10,7 @@ Project 0: Exploratory Project: Titanic Survival Exploration
 Model Evaluation and Validation
 
 Project 1: Predicting Boston Housing Prices
-Supervised Learning
+- Supervised Learning
 
 Project 2:
 
